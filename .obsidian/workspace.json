@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "030fc70ae5afe6ac",
+        "id": "a79033a9aec70724",
         "type": "tabs",
         "children": [
           {
-            "id": "e42d6e2887cc6b38",
+            "id": "42da9cfc15196597",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,27 +146,29 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "e42d6e2887cc6b38",
+  "active": "6c948228a6c79cce",
   "lastOpenFiles": [
+    "Cours/Algo/Séance 1/Exo 3.py",
+    "Cours/Algo/Séance 1/Exo 2.py",
+    "Cours/Algo/Séance 1/Exo 1.py",
+    "Cours/Algo/Séance 1/Exo 1",
+    "Cours/Séance 1",
+    "Cours/Algo/Séance 1/hello.py",
+    "Cours/Algo/Séance 1",
+    "Cours/dossier sans titre",
+    "Cours/Module A/Séance 1.md",
     "Cours/Algo/24-09-2024.md",
     "Cours/Algo/23-09-2024.md",
-    "Cours/Windows Server/25-09-2024.md",
     "Cours/Module A/Séance 2.md",
+    "Cours/Windows Server/25-09-2024.md",
     "README.md",
     "Veille/Ressources web.md",
-    "Cours/Module A/Séance 1.md",
     "Cours/Windows Server",
     "Cours/Algo/Algo 10-09-2024.md",
     "fonction.md",
     "Cours/Algo",
     "Cours/Sans titre 1",
-    "Cours/Module A",
-    "Veille",
-    "Cours",
     "ALGO/Sommaire.md",
-    "Welcome.md",
-    "ALGO",
-    "CSS",
-    "HTML"
+    "Welcome.md"
   ]
 }

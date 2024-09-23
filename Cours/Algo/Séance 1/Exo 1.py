@@ -1,0 +1,2 @@
+nom = "M"
+print(nom)
