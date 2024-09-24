@@ -2,7 +2,7 @@ prix_ht = float(input("Saisissez le prix de l'objet : "))
 print("Veuillez choisir le taux de TVA : ")
 print("1 - La TVA est de 5,5%")
 print("2 - La TVA est de 19,6%")
-print("3 - La TVA est de 33")
+print("3 - La TVA est de 33%")
 
 code_tva = int(input("Saisissez le code TVA (1, 2 ou 3) : "))
 
