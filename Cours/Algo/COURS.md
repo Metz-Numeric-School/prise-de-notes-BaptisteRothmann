@@ -165,15 +165,83 @@ if *condition* :
 (indentation)
 
 ex : 
+```python 
 light = 1
 if light == 1 :
 	print("J'ouvre les volets")
 else :
 	print("Je ferme les volets")
+```
 
-
+```python
 first_name = input("Votre nom : ")
 if first_name == "John" :
 	print("Bonjour")
 else : 
 	print("Au revoir")
+```
+
+#### Boucles
+
+- for (pour)
+-> boucle comptée (utilisation d'une variable de comptage)
+Elle permet de répéter n fois une ou plusieurs instructions 
+
+for i in range(start, end):
+	instruction
+la boucle d'arrête lorsque i == end
+
+```python
+for i in range(0, 5):
+	print("Hello")
+```
+(incrémentation) i = i + 1
+
+- while (tant que)
+-> boucle conditionnelle 
+Elle répète l'instruction tant qu'elle est vérifiée 
+
+while c:
+	instruction
+
+```python
+n = 1
+while n != 100:
+	print(n)
+	n = n + 1
+```
+
+mot = "Hello"
+mot.lower() ----> "hello"
+mot.upper() ----> "HELLO"
+h = mot[0] ----> "h"
+l = len(mot) ----> 5
+d = mot[-1] ----> "o"
+
+jour = "mardi"
+message = f"Nous sommes {jour}"
+
+#### Listes
+
+Permet de contenir plusieurs valeurs 
+chats = ["bibou", "tartuffe, "frimousse"]
+divers = ["a", 12, True, 3.14]
+l = [1, 2, 3, 4]
+0  1   2  3 (indice)
+Pour accéder à la valeur 3 de la liste, il faut utiliser l'indice 2 
+ex : 
+print(l[2]) # affiche 3 
+print(len(l)) # affiche 4 
+
+dernier indice (last index) : len(l) - 1
+
+##### Parcours d'un liste 
+
+fruits = ["pomme", "fraise", "banane"]
+for i in range(0, len(fruits))
+	print(fruits[i])
+
+vegetables = ["aubergine", "brocolis", "haricot"]
+for vegetable in vegetables:
+	print(vegetable)
+

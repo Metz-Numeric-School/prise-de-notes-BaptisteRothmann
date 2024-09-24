@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Algo/23-09-2024.md",
+                "file": "Cours/Algo/COURS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Algo/23-09-2024.md",
+                "file": "Cours/Algo/COURS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Algo/23-09-2024.md",
+                "file": "Cours/Algo/COURS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Algo/23-09-2024.md"
+                "file": "Cours/Algo/COURS.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "42da9cfc15196597",
   "lastOpenFiles": [
+    "Module A/Séance 2.md",
+    "Cours/Algo/COURS.md",
+    "Cours/Algo/Séance 2/test.py",
+    "Cours/Algo/Séance 2/test",
+    "Module A/Séance 1.md",
+    "Veille/Ressources web.md",
+    "Cours/Algo/24-09-2024.md",
     "Cours/Algo/Séance 2/Exo 10.py",
     "Cours/Algo/Séance 2/Exo 9.py",
     "Cours/Algo/Séance 2/Exo 8.py",
@@ -156,16 +163,8 @@
     "Cours/Algo/Séance 2/Exo 6.py",
     "Cours/Algo/Séance 2/Exo 5.py",
     "Cours/Algo/Séance 2/Exo 4.py",
-    "Cours/Algo/Séance 2/Exo 3.py",
-    "Cours/Algo/Séance 2/Exo 2.py",
-    "Cours/Algo/24-09-2024.md",
-    "Cours/Algo/Séance 2/Exo 1.py",
-    "Cours/Algo/23-09-2024.md",
-    "Cours/Module A/Séance 1.md",
-    "Cours/Module A/Séance 2.md",
     "Cours/Windows Server/25-09-2024.md",
     "README.md",
-    "Veille/Ressources web.md",
     "Cours/Algo/Algo 10-09-2024.md",
     "fonction.md",
     "ALGO/Sommaire.md",
