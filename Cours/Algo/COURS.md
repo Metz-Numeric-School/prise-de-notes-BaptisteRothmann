@@ -237,11 +237,29 @@ dernier indice (last index) : len(l) - 1
 
 ##### Parcours d'un liste 
 
+```python
 fruits = ["pomme", "fraise", "banane"]
 for i in range(0, len(fruits))
 	print(fruits[i])
+```
 
+```python
 vegetables = ["aubergine", "brocolis", "haricot"]
 for vegetable in vegetables:
 	print(vegetable)
+```
 
+#### Functions
+
+def somme(a, b) :
+	print(f"La somme de {a} + {b} = {a + b}")
+
+somme(5, 2)
+somme (3, 3)
+
+--> Procédure
+
+def somme(a, b) :
+	return a + b
+
+resultat = somme(5, 2)
