@@ -7,3 +7,4 @@ GTI (garantie du temps d'intervention)
 
 
 
+https://github.com/glpi-project/glpi-agent/releases/download/1.8/glpi-agent_1.8-1_all.deb
