@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42da9cfc15196597",
+            "id": "5705738b073cdf55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Algo/COURS.md",
+                "file": "Cours/Gestion de parc informatique/COURS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Algo/COURS.md",
+                "file": "Cours/Gestion de parc informatique/COURS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Algo/COURS.md",
+                "file": "Cours/Gestion de parc informatique/COURS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Algo/COURS.md"
+                "file": "Cours/Gestion de parc informatique/COURS.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "42da9cfc15196597",
+  "active": "5705738b073cdf55",
   "lastOpenFiles": [
+    "Cours/Algo/COURS.md",
     "Cours/Gestion de parc informatique/COURS.md",
     "Cours/Gestion de parc informatique/Tâches et savoir être d'un gestionnaire de parc info.md",
-    "Cours/Algo/COURS.md",
+    "Cours/Gestion de projet.md",
     "Cours/Gestion de parc informatique",
     "Cours/dossier sans titre",
     "Cours/Gestion de parc informatique.md",
-    "Sans titre.md",
     "Cours/COURS.md",
     "Cours/Algo/Evaluation/Exercice 5.py",
     "Cours/Algo/Evaluation/Exercice 4.py",
