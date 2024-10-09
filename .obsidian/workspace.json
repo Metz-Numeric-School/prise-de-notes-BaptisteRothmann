@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "a79033a9aec70724",
+        "id": "2fe0fc1f447097fc",
         "type": "tabs",
         "children": [
           {
-            "id": "5705738b073cdf55",
+            "id": "60324a30d494ced1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Captures d'écran/Capture d’écran 2024-10-08 à 08.57.32.png"
+              }
+            }
+          },
+          {
+            "id": "ec968c9f59bedb33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Gestion de parc informatique/COURS.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Gestion de parc informatique/COURS.md",
+                "file": "Captures d'écran/Capture d’écran 2024-10-08 à 08.57.32.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Gestion de parc informatique/COURS.md",
+                "file": "Captures d'écran/Capture d’écran 2024-10-08 à 08.57.32.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Gestion de parc informatique/COURS.md"
+                "file": "Captures d'écran/Capture d’écran 2024-10-08 à 08.57.32.png"
               }
             }
           }
@@ -146,12 +157,19 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "5705738b073cdf55",
+  "active": "6c948228a6c79cce",
   "lastOpenFiles": [
-    "Cours/Algo/COURS.md",
+    "Captures d'écran",
+    "dossier sans titre",
+    "Sans titre.md",
+    "README.md",
+    "Captures d'écran/Capture d’écran 2024-10-08 à 08.57.32.png",
+    "Captures d'écran/Capture d’écran 2024-10-08 à 09.05.27.png",
+    "Cours/Cloud Computing.md",
     "Cours/Gestion de parc informatique/COURS.md",
-    "Cours/Gestion de parc informatique/Tâches et savoir être d'un gestionnaire de parc info.md",
     "Cours/Gestion de projet.md",
+    "Cours/Algo/COURS.md",
+    "Cours/Gestion de parc informatique/Tâches et savoir être d'un gestionnaire de parc info.md",
     "Cours/Gestion de parc informatique",
     "Cours/dossier sans titre",
     "Cours/Gestion de parc informatique.md",
@@ -164,12 +182,10 @@
     "Cours/Algo/Evaluation",
     "Cours/Algo/dossier sans titre",
     "Module A/Séance 2.md",
-    "Cours/Algo/Séance 2/test.py",
     "Module A/Séance 1.md",
     "Veille/Ressources web.md",
     "Cours/Algo/24-09-2024.md",
     "Cours/Windows Server/25-09-2024.md",
-    "README.md",
     "Cours/Algo/Algo 10-09-2024.md",
     "fonction.md",
     "ALGO/Sommaire.md",

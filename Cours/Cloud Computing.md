@@ -117,3 +117,30 @@ Saas : le client ne possède presque pas de responsabilité sur la sécurité du
 Une fois le réseau VPC créé, on ne peut plus modifier la plage d'adresses 
 AWS réserve 5 adresses IP dans les sous-réseaux
 
+#### Sécurité des VPC
+
+Chaque sous-réseau d'un VPC doit être associé à une ACL
+Statefull / Stateless
+Amazon Route 53
+
+#### Calcul
+
+Amazon EC2 fournit des machines virtuelles 
+Amazon ECS est un organisateur de conteneurs 
+AWS Lambda est une solution de calcul sans serveur, on ne paie que pour le temps de calcul utilisé
+AWS Beanstalk est considéré comme une PaaS
+
+![[Capture d’écran 2024-10-08 à 08.57.32.png]]
+
+Applications courantes Amazon EC2 : serveurs d'applications, serveurs web, serveurs de bases de données
+
+![[Capture d’écran 2024-10-08 à 09.05.27.png]]
+
+Différents types et instances d'EC2, il est possible de choisir les caractéristiques de nos machines en fonction de nos besoins 
+Au delà des composants de la machine virtuelle, il est aussi possible de régler la bande passante 
+Des machines pré faites sont proposées par AWS permettant de les déployer en quelques minutes seulement 
+Par défaut, toutes les instances sont limitées à 5 adresses IP elastic par région 
+
+
+AWS Lambda : On peut créer un code dans une fonction sans se soucier du serveur et on ne paie que lorsque le code est déclenché (facturé tous les 100 millisecondes) 
+ 
