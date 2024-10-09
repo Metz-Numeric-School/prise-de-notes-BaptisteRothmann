@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2fe0fc1f447097fc",
+        "id": "235c7c2fbcb68e7e",
         "type": "tabs",
         "children": [
           {
-            "id": "60324a30d494ced1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Captures d'écran/Capture d’écran 2024-10-08 à 08.57.32.png"
-              }
-            }
-          },
-          {
-            "id": "ec968c9f59bedb33",
+            "id": "6ee109a14d3bc672",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cours/Anglais.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Captures d'écran/Capture d’écran 2024-10-08 à 08.57.32.png",
+                "file": "Cours/Anglais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Captures d'écran/Capture d’écran 2024-10-08 à 08.57.32.png",
+                "file": "Cours/Anglais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Captures d'écran/Capture d’écran 2024-10-08 à 08.57.32.png"
+                "file": "Cours/Anglais.md"
               }
             }
           }
@@ -159,11 +148,12 @@
   },
   "active": "6c948228a6c79cce",
   "lastOpenFiles": [
+    "Cours/Anglais.md",
+    "Cours/Culture juridique.md",
+    "Captures d'écran/Capture d’écran 2024-10-08 à 08.57.32.png",
     "Captures d'écran",
     "dossier sans titre",
-    "Sans titre.md",
     "README.md",
-    "Captures d'écran/Capture d’écran 2024-10-08 à 08.57.32.png",
     "Captures d'écran/Capture d’écran 2024-10-08 à 09.05.27.png",
     "Cours/Cloud Computing.md",
     "Cours/Gestion de parc informatique/COURS.md",
@@ -180,7 +170,6 @@
     "Cours/Algo/Evaluation/Exercice 2.py",
     "Cours/Algo/Evaluation/Exercice 1.py",
     "Cours/Algo/Evaluation",
-    "Cours/Algo/dossier sans titre",
     "Module A/Séance 2.md",
     "Module A/Séance 1.md",
     "Veille/Ressources web.md",
