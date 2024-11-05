@@ -96,6 +96,52 @@ Combinaisons :
 1111 1110 : 254
 1111 1111 : 255
 
+# Router on a stick
 
-## Exercice
+(Voir la procédure "PROTOCOLE CONFIG RESEAU")
+
+# Switch layer 3 en cœur de réseau 
+
+
+SVI (switch virtual interface) : interface virtuelle pour chaque vlan
+layer 3 : mettre une alimentation (AC-POWER-SUPPLY)
+
+
+![[Pasted image 20241105112003.png]]
+
+![[Pasted image 20241105112028.png]]
+
+retaper les vlan à la main / mettre les vlan dans un bloc puis crtl c + crtl v / utiliser le vtp en utilisant le switch server
+
+![[Pasted image 20241105112459.png]]
+
+![[Pasted image 20241105112548.png]]
+
+![[Pasted image 20241105114339.png]]
+
+"Interface vlan 10" permet de créer une interface pour le vlan 10
+"ip add x.x.x.x x.x.x.x" attribue l'adresse de la gateway à l'interface avec son masque de sous réseau
+"show ip interface brief" pour afficher la liste des interfaces créées et leurs adresses ip
+
+![[Pasted image 20241105114933.png]]
+
+"ip routing" permet la communication entre les sous réseaux
+
+![[Pasted image 20241105115206.png]]
+
+![[Pasted image 20241105115345.png]]
+
+On sélectionne le port qui communique avec le routeur puis "no switchport"
+"Interface Gig1/0/4" pour sélectionner l'interface
+"Ip add 10.10.10.2 255.255.255.252" pour lui attribuer l'adresse ip du même réseau que l'interface du routeur
+
+![[Pasted image 20241105120011.png]]
+
+"ip route x.x.x.x x.x.x.x y.y.y.y" pour définir la route 'x.x.x.x x.x.x.x' étant l'adresse de la gateway et le masque de sous réseau vers lequel la requête doit être transmise et 'y.y.y.y' étant l'adresse de l'interface du layer 3 avec lequel le routeur communique
+
+SDN (Software Defined Networking)
+
+
+
+
 
