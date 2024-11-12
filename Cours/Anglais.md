@@ -91,3 +91,66 @@ advantages :
 disadvantages : 
 - long time environmental impact because the combustion of the petrol pollutes more than electricity
 - long time more expensive, the petrol is more expensive than electricity
+
+
+## MODALS
+
+1. could (past)
+2. don't have to (no necessity)
+3. can / can't (ability in the present)
+4. could / can
+5. must (internal obligation)
+6. mustn't (internal obligation)
+7. can (asking permission)
+8. will (offer)
+9. will (warning)
+10. must (internal obligation)
+
+
+5 things a french citizen must do
+
+- have to respect the laws 
+- have to go to school until 16 years old
+- have to own a driving license to drive
+- have to declare their income
+- have to paid taxes 
+
+3 things you might do in Christmas
+
+- Can decorate our house
+- Could prepare a dinner for the family 
+- Can offer some gifts to our family
+
+ 3 things you used to do in the past (capacity)
+
+- played tennis every week
+
+
+present yourself (where come from, degree, current job or study)
+qualifications / strengths
+weaknesses
+
+- Hello 
+- Can you introduce yourself ?
+- Have you any degree or are you currently in study ? 
+- What are your strengths ?
+- What are your main weakness ? 
+- How do you manage a crisis ? 
+- It's 12 thousands euros per month
+- Thank you too
+
+## -ED or -ING ?
+
+1. confusing
+2. embarrassed
+3. interested
+4. annoying
+5. relaxing
+6. tired
+7. depressed
+8. satisfied
+9. worrying
+10. terrifying
+11. fascinating
+12. disappointed
+
