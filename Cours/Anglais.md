@@ -154,3 +154,36 @@ weaknesses
 11. fascinating
 12. disappointed
 
+The psychology of the chocolate culture in the architecture which aims to know the talk walk of the chaotic situation 
+
+Some vegetables nurture the health and the idea of a headache or any ache leaves the picture of the three thee thing 
+
+Can / Could : capacity - permission
+Must / Mustn't : obligation - prohibition 
+Have to / Had to : obligation 
+Might : probability 
+Shall : I & we (=devrais-je)
+Should : advice
+Will : futur 
+May : permission (very formal)
+
+1. have to
+2. should
+3. had to
+4. must / should 
+5. could
+6. must
+7. may 
+8. must
+9. can
+10. may
+11. can't
+12. have to
+13. can
+14. can't
+15. can (That dress is not expensive I can buy it)
+When Mika was younger, she could swim very fast
+You mustn't smoke in public places
+
+good is an adjective 
+well is an adverb
