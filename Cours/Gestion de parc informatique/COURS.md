@@ -55,7 +55,7 @@ Pour une maintenance corrective, soit je répare, soit je dépanne
 - dépanner : on règle temporairement le problème en attendant une réparation 
 
 Le coût d'une panne peut être :
-- direct (temps passé au coût de main d'oeuvre, intervention externe, pièce de rechange) 
+- direct (temps passé au coût de main d'œuvre, intervention externe, pièce de rechange) 
 - indirect (pièce rebutée, reprise ou retouche de la pièce, remplacement de pièce rebutée, perte de production durant l'arrêt, pénalité liée au retard de livraison, coût de la main d'oeuvre inoccupée pendant la panne)
 
 PCA : plan de continuité de l'activité 
