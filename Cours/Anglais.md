@@ -74,6 +74,14 @@ Some exceptions :
 16. He is on the plane to Japan
 17. He looked at the girl is in the picture. He liked what he saw
 
+## Preposition of time
+
+IN                                                        AT                                                       ON
+
+Example : In the morning, in the afternoon, in the evening
+		At noon, at 7:10, at night
+		On Monday, on my birthday, on October 18
+
 
 for and against : electric car vs petrol car 
 price 
@@ -187,3 +195,60 @@ You mustn't smoke in public places
 
 good is an adjective 
 well is an adverb
+
+## Future
+
+1) Will + verb --> uncertain, rapid decision
+2) be + going to + verb --> certain, evidence
+
+
+The Stanford prison experiment : 
+
+- The Stanford prison experiment was a psychological experiment performed during August 1971
+- It was a 2 week simulation of a prison environment that examined the effects of different situations on participant's reactions.
+- Philip Zimbardo, a psychology professor of the Stanford University managed the study
+- A advertisement in the newspaper offering 15 dollars per day for male students who participated
+- An exam of the psychological stability was necessary to be admitted in the study
+
+Bitcoin started in 2009 and used to buy goods, mining isn't controlled. Can buy it on multi platforms
+
+Mcdonald's is a company with a lot of franchise 
+
+Elon was born in 1971 in South Africa, co founder of Paypal. His father was engineer 
+
+1) going to
+2) going to or will (both)
+3) will
+4) will 
+5) will
+6) going to
+7) going to
+8) going to
+9) will
+10) will
+11) will 
+12) going to
+13) will
+14) will
+15) will
+
+1) we are going to attend
+2) will be
+3) is going to buy
+4) Will / are going to win
+5) is going to be / will snow
+6) will
+7) will travel
+8) will
+9) I will lift 
+10) will not use / are going to give
+11) going to 
+12) am going to
+
+13) no
+14) yes
+15) yes
+16) yes
+17) yes
+18) yes
+19) yes
