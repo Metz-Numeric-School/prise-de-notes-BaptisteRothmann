@@ -252,3 +252,4 @@ Elon was born in 1971 in South Africa, co founder of Paypal. His father was engi
 17) yes
 18) yes
 19) yes
+
