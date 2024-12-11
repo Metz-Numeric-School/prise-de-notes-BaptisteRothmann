@@ -141,7 +141,16 @@ On sélectionne le port qui communique avec le routeur puis "no switchport"
 
 SDN (Software Defined Networking)
 
+Configuration NAT routage dynamique 
 
+Dans le routeur : 
+Interface côté privé : ip nat inside
+Interface côté public : ip nat outside
 
+Créer une access lit pour le réseau : access list 10 x.x.x.x 0.0.0.255
+x.x.x.x étant le réseau privé
 
+Permettre à notre access list le passage par l'interface public : ip nat inside source list 10 interface g0/0 overload
+
+ATTENTION : penser à faire une ip route dans chaque routeur
 
