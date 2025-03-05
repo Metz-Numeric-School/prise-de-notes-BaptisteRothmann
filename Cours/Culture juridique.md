@@ -31,3 +31,10 @@ Veille législative : obligation de se tenir informé sur les législations conc
 	- sources fiables : .gouv / legifrance / tissot, lefevre, lamy (=newsletter)
 - réseaux sociaux 
 - webinaires (cabinet Haas : IA)
+
+
+Offre d'emploi : 
+- interdiction discriminatoire 
+		--> pas mention de sexe, âge, handicap / santé...
+
+

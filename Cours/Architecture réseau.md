@@ -117,6 +117,7 @@ retaper les vlan à la main / mettre les vlan dans un bloc puis crtl c + crtl v 
 
 ![[Pasted image 20241105112548.png]]
 
+
 ![[Pasted image 20241105114339.png]]
 
 "Interface vlan 10" permet de créer une interface pour le vlan 10
@@ -147,10 +148,63 @@ Dans le routeur :
 Interface côté privé : ip nat inside
 Interface côté public : ip nat outside
 
-Créer une access lit pour le réseau : access list 10 x.x.x.x 0.0.0.255
+Créer une access list pour le réseau : access-list 10 permit  x.x.x.x 0.0.0.255
 x.x.x.x étant le réseau privé
 
-Permettre à notre access list le passage par l'interface public : ip nat inside source list 10 interface g0/0 overload
+Permettre à notre access list le passage par l'interface publique : ip nat inside source list 10 interface g0/0 overload
 
 ATTENTION : penser à faire une ip route dans chaque routeur
+
+# Configuration DHCP avec un serveur (packet tracer)
+
+https://ccnareponses.com/7-2-10-packet-tracer-configurer-dhcpv4/
+# Redondance
+
+## Protocole STP (Spanning tree protocol)
+
+file:///C:/Users/bapti/OneDrive/Bureau/Le-protocole-STP.pdf
+
+![[Pasted image 20250107110648.png]]
+
+**Les BPDUs sont des messages STP échangés entre les switchs pour détecter les boucles réseau et configurer une topologie sans boucle**
+
+![[Pasted image 20250107111853.png]]
+
+**Le STP ne désactive pas l'interface, il empêche les messages autres que les siens de circuler**
+
+Election du **Root Bridge (RB)** par le **BID (Bridge ID)** codé en binaire sur 64 bits (composé d'un chiffre en 16 bits (priorité) et d'un chiffre en 48 bits (adresse MAC))
+- 16 bits : 0 --> 65535, par défaut, 32767 (pas de priorité)
+- 48 bits : adresse MAC
+
+
+Dans le CLI packet tracer : "show version" pour voir l'adresse MAC
+
+**Le switch prioritaire (RB) sera celui avec le BID le plus faible**
+Sur le RB, toutes les interfaces sont des DP (Designated Ports)
+![[Pasted image 20250107113846.png]]
+![[Pasted image 20250107114402.png]]
+
+![[Pasted image 20250107114942.png]]
+
+# FHRPs
+
+![[Pasted image 20250204135130.png]]
+
+## HSRP 
+
+![[Pasted image 20250204135509.png]]
+
+![[Pasted image 20250204162615.png]]
+
+## VRRP
+
+![[Pasted image 20250204140050.png]]
+
+## GLBP
+
+![[Pasted image 20250204140258.png]]
+
+## Tableau de comparaison des FHRPs
+
+![[Pasted image 20250204140344.png]]
 
