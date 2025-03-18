@@ -252,6 +252,20 @@ L'ACL étendue "branch_to_hq" bloque tout d'abord le trafic IP provenant des sou
 Ces commandes configurent l'interface série 0/1/1 pour utiliser l'ACL "branch_to_hq" afin de filtrer tout le trafic sortant selon les règles spécifiées dans cette ACL.
 
 
-## 5.5.2 Packet Tracer - Configure and Verify Extended IPv4 ACLs - Physical Mode
+# Firewall StormShield
 
 
+![[Pasted image 20250311114100.png]]
+
+Dans l'onglet "CONFIGURATION", dans la rubrique "SYSTEM" puis "MAINTENANCE", sélectionner le fichier MAJ puis cliquer sur "Update firemware" 
+
+![[Pasted image 20250311114649.png]]
+Dans la rubrique "SECURITY POLICY" puis "Filter - NAT", on sélectionne la liste "(10) Pass all"
+Dans l'onglet "NAT", on ajoute ensuite une nouvelle règle "Dynamic rule with port address translation (Dynamic PAT)"
+Dans la partie "Traffic after translation", on sélectionne le "Firewall_out" pour la source puis on apply
+
+![[Pasted image 20250311133153.png]]
+Dans l'onglet "CONFIGURATION", dans la rubrique "SYSTEM" puis "License", sélectionner le fichier LICENSE puis cliquer sur "Install"
+
+![[Pasted image 20250311140112.png]]
+Cliquer sur "Download this update" pour télécharger le fichier de mise à jour puis le sélectionner et cliquer sur "Update firmware"

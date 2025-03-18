@@ -185,7 +185,6 @@ Sur le RB, toutes les interfaces sont des DP (Designated Ports)
 ![[Pasted image 20250107114402.png]]
 
 ![[Pasted image 20250107114942.png]]
-
 # FHRPs
 
 ![[Pasted image 20250204135130.png]]
